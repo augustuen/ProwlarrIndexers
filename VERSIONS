@@ -2,13 +2,13 @@
 # This file defines the supported schema versions for indexer definitions
 
 # Current active schema version (latest stable)
-CURRENT_VERSION=11
+CURRENT_VERSION=12
 
-# Maximum supported schema version 
-MAX_VERSION=11
+# Maximum supported schema version
+MAX_VERSION=12
 
 # Minimum supported schema version (below this are deprecated/frozen)
 MIN_VERSION=11
 
 # Development/next schema version (if being worked on)
-NEXT_VERSION=12
+NEXT_VERSION=13
